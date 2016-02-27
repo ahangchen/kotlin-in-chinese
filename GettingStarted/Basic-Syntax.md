@@ -46,7 +46,7 @@ fun printSum(a: Int, b: Int): Unit{
 }
 ```
 
-Uint 的返回类型可以省略：
+Unit 的返回类型可以省略：
 
 ```java
 fun printSum(a: Int, b: Int){
